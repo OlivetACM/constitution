@@ -183,13 +183,13 @@ Ratification of the Constitution
 
 1.  Adoption
 
-    1.  This constitution must be ratified by a two-thirds majority of the members or by the Chair and Vice Chair during the 2016-2017 academic year.
+    1.  This constitution must be ratified by a two-thirds majority of the members or by the Chair and Vice Chair during the 2018-2019 academic year.
 
     2.  The Constitution will take effect once approved by the Advisor.
 
 2.  Amendments
 
-    1.  During the 2016-2017 year, the constitution may be amended at the will of the Chair and Vice Chair, only if they agree upon the amendment. This amended can be contested by members and vetoed by a $\\frac{1}{2} + 1$ vote by the general members. Members will be informed of changes done in this way.
+    1.  During the 2018-2019 year, the constitution may be amended at the will of the Chair and Vice Chair, only if they agree upon the amendment. This amended can be contested by members and vetoed by a one-half (1/2) + 1 vote by the general members. Members will be informed of changes done in this way.
 
     2.  Any member may propose an amendment. This proposed amendment must be in writing and presented at a regular meeting.
 
@@ -202,4 +202,4 @@ Ratification of the Constitution
 Signatures
 ==========
 
-Ratified 9 - 20 - 2016
+Ratified 9 - 12 - 2018
